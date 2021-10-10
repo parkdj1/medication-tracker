@@ -1,0 +1,6 @@
+framework module Pods_medication_tracker_medication_trackerUITests {
+  umbrella header "Pods-medication-tracker-medication-trackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
